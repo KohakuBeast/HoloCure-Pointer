@@ -31,3 +31,6 @@ cheat for holocure with pointer in cheat engine, For Those Of You Who First Use 
 4. After That Open Holocure.CT And Find The [Process](https://prnt.sc/wTfkJCTZHGcr) at The Top Left Cheat Engine and Select [Holocure](https://prnt.sc/hCedJE0fscVh)
 5. If You Have An Option Like [This](https://prnt.sc/oyeCXQIfEavm) Just Press Yes
 6. Play The Game And Enjoy Cheating
+
+maybe I will update here and test the cheat if it feels good I will upload it here and then in the cheat forum. the forum I mean is this
+   https://www.unknowncheats.me/forum/other-games/514570-holocure-simple-cheat.html
