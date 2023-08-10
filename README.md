@@ -1,5 +1,5 @@
 # HoloCure-Pointer
-cheat for holocure with pointer in cheat engine  
+cheat for holocure with pointer in cheat engine, For Those Of You Who First Use The Cheat Engine And Are New To The World Of Cheats, You Can See The [Tutorial](https://github.com/KohakuBeast/HoloCure-Pointer/tree/main#tutorial)  
 ## Feature
 + Exp
 + Ingame Coin
