@@ -444,6 +444,4 @@ luacall(speedhack_setSpeed(1))
     </CheatEntry>
   </CheatEntries>
   <UserdefinedSymbols/>
-  <Comments>For the stat part, the feature can only be used once in the game, when you change the character, the address will not work at all, you can only use it once, even if you want to use it, you have to restart the game to use the feature
-</Comments>
 </CheatTable>
