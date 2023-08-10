@@ -25,7 +25,7 @@ cheat for holocure with pointer in cheat engine, For Those Of You Who First Use 
 > sometimes the offset can be wrong and will not be read when playing, for that wait until the next update (or just play)
 
 # Tutorial  
-1. Download [Cheat Engine](https://www.cheatengine.org/) First  
+1. Download [Cheat Engine](https://www.cheatengine.org/) First and install  
 2. Download Latest [Release](https://github.com/KohakuBeast/HoloCure-Pointer.git) Of This File  
 3. Extract File That You Download And Extract HoloCure.zip
 4. After That Open Holocure.CT And Find The [Process](https://prnt.sc/wTfkJCTZHGcr) at The Top Left Cheat Engine and Select [Holocure](https://prnt.sc/hCedJE0fscVh)
