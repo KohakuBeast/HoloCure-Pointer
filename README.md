@@ -8,10 +8,7 @@ Cheat For HoloCure With Pointer In Cheat Engine, For Those Of You Who First Use 
 + Reroll
 + Eliminate
 + Level
-+ Lives
-+ Credit Card Drop Rate  
-+ Super Chatto Time More Coin 
-+ Uber Sheep Food Drop
+
 #### Stat :
 + Bar Hp 
 + Hp
@@ -22,7 +19,15 @@ Cheat For HoloCure With Pointer In Cheat Engine, For Those Of You Who First Use 
 + Haste
 + Ult
 + Crt Damage
+
+#### Item :  
++ Lives
++ Credit Card Drop Rate  
++ Super Chatto Time More Coin 
++ Uber Sheep Food Drop
 + Knight Milk Size
++ Body Pillow
+
 >[!NOTE]  
 > sometimes the offset can be wrong and will not be read when playing, for that wait until the next update (or just play)
 
