@@ -23,12 +23,6 @@ luacall(cycleFullCompact(nil,false))
       <GroupHeader>1</GroupHeader>
     </CheatEntry>
     <CheatEntry>
-      <ID>7</ID>
-      <Description>"           !!PLEASE READ THE TABLE EXTRA IN THE BOTTOM RIGHT CORNER FOR STAT INFORMATION!!                      "</Description>
-      <Color>0000FF</Color>
-      <GroupHeader>1</GroupHeader>
-    </CheatEntry>
-    <CheatEntry>
       <ID>0</ID>
       <Description>"Ingame                                                                                                                                                                                                                                        "</Description>
       <Options moHideChildren="1"/>
