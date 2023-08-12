@@ -128,73 +128,6 @@ luacall(cycleFullCompact(nil,false))
             <Offset>4B38</Offset>
           </Offsets>
         </CheatEntry>
-        <CheatEntry>
-          <ID>33</ID>
-          <Description>"Lives [You Need The Chicken Feather Item First To Work]"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+00801BE8</Address>
-          <Offsets>
-            <Offset>0</Offset>
-            <Offset>65B0</Offset>
-            <Offset>10</Offset>
-            <Offset>48</Offset>
-            <Offset>1B0</Offset>
-            <Offset>18</Offset>
-            <Offset>4B8</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>36</ID>
-          <Description>"Credit Card Envil Drop"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <Color>757575</Color>
-          <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+00801BE8</Address>
-          <Offsets>
-            <Offset>0</Offset>
-            <Offset>4090</Offset>
-            <Offset>10</Offset>
-            <Offset>48</Offset>
-            <Offset>1B0</Offset>
-            <Offset>98</Offset>
-            <Offset>18</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>37</ID>
-          <Description>"Super Chatto Time More Coin"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <Color>00B900</Color>
-          <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+00801BE8</Address>
-          <Offsets>
-            <Offset>0</Offset>
-            <Offset>45C0</Offset>
-            <Offset>10</Offset>
-            <Offset>48</Offset>
-            <Offset>1B0</Offset>
-            <Offset>98</Offset>
-            <Offset>78</Offset>
-          </Offsets>
-        </CheatEntry>
-        <CheatEntry>
-          <ID>40</ID>
-          <Description>"Uber Sheep Food Drop"</Description>
-          <ShowAsSigned>0</ShowAsSigned>
-          <Color>96FF96</Color>
-          <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+00801BE8</Address>
-          <Offsets>
-            <Offset>0</Offset>
-            <Offset>37D0</Offset>
-            <Offset>10</Offset>
-            <Offset>48</Offset>
-            <Offset>1B0</Offset>
-            <Offset>18</Offset>
-            <Offset>1528</Offset>
-          </Offsets>
-        </CheatEntry>
       </CheatEntries>
     </CheatEntry>
     <CheatEntry>
@@ -394,6 +327,81 @@ luacall(cycleFullCompact(nil,false))
             <Offset>170</Offset>
             <Offset>18</Offset>
             <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>43</ID>
+      <Description>"Item"</Description>
+      <Color>97FFCB</Color>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>33</ID>
+          <Description>"Lives [You Need The Chicken Feather Item First To Work]"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <VariableType>Double</VariableType>
+          <Address>"HoloCure.exe"+00801BE8</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>65B0</Offset>
+            <Offset>10</Offset>
+            <Offset>48</Offset>
+            <Offset>1B0</Offset>
+            <Offset>18</Offset>
+            <Offset>4B8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"Credit Card Envil Drop"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>757575</Color>
+          <VariableType>Double</VariableType>
+          <Address>"HoloCure.exe"+00801BE8</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>4090</Offset>
+            <Offset>10</Offset>
+            <Offset>48</Offset>
+            <Offset>1B0</Offset>
+            <Offset>98</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>37</ID>
+          <Description>"Super Chatto Time More Coin"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>00B900</Color>
+          <VariableType>Double</VariableType>
+          <Address>"HoloCure.exe"+00801BE8</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>45C0</Offset>
+            <Offset>10</Offset>
+            <Offset>48</Offset>
+            <Offset>1B0</Offset>
+            <Offset>98</Offset>
+            <Offset>78</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>40</ID>
+          <Description>"Uber Sheep Food Drop"</Description>
+          <ShowAsSigned>0</ShowAsSigned>
+          <Color>96FF96</Color>
+          <VariableType>Double</VariableType>
+          <Address>"HoloCure.exe"+00801BE8</Address>
+          <Offsets>
+            <Offset>0</Offset>
+            <Offset>37D0</Offset>
+            <Offset>10</Offset>
+            <Offset>48</Offset>
+            <Offset>1B0</Offset>
+            <Offset>18</Offset>
+            <Offset>1528</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
