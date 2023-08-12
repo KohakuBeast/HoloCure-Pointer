@@ -334,6 +334,7 @@ luacall(cycleFullCompact(nil,false))
     <CheatEntry>
       <ID>43</ID>
       <Description>"Item"</Description>
+      <Options moHideChildren="1"/>
       <Color>97FFCB</Color>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
