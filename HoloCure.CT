@@ -266,7 +266,7 @@ luacall(cycleFullCompact(nil,false))
             <Offset>10</Offset>
             <Offset>48</Offset>
             <Offset>98</Offset>
-            <Offset>20</Offset>
+            <Offset>10</Offset>
             <Offset>2740</Offset>
             <Offset>30</Offset>
             <Offset>0</Offset>
@@ -309,9 +309,9 @@ luacall(cycleFullCompact(nil,false))
             <Offset>48</Offset>
             <Offset>1A0</Offset>
             <Offset>198</Offset>
-            <Offset>198</Offset>
-            <Offset>290</Offset>
-            <Offset>28</Offset>
+            <Offset>98</Offset>
+            <Offset>170</Offset>
+            <Offset>18</Offset>
             <Offset>70</Offset>
           </Offsets>
         </CheatEntry>
