@@ -27,6 +27,12 @@ Cheat For HoloCure With Pointer In Cheat Engine, For Those Of You Who First Use 
 + Uber Sheep Food Drop
 + Knight Milk Size
 + Body Pillow
+#### HoloHouse :
++ Chain
++ Fishing Bar
++ Manager Bar
++ Manager Level
++ Sand
 
 >[!NOTE]  
 > sometimes the offset can be wrong and will not be read when playing(you can pause the game then the address will be read.), for that wait until the next update (or just play)
