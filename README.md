@@ -35,7 +35,7 @@ Cheat For HoloCure With Pointer In Cheat Engine, For Those Of You Who First Use 
 + Sand
 
 >[!NOTE]  
-> sometimes the offset can be wrong and will not be read when playing(you can pause the game then the address will be read.), for that wait until the next update (or just play)
+> sometimes the offset can be wrong and will not be read when playing, for that wait until the next update (or just play)
 
 # Tutorial  
 1. Download [Cheat Engine](https://www.cheatengine.org/) First and install  
