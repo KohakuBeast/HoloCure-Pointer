@@ -18,7 +18,7 @@ luacall(cycleFullCompact(nil,false))
     </CheatEntry>
     <CheatEntry>
       <ID>35</ID>
-      <Description>"                                                              HoloCure For Version 0.6.1692775174                                                                                "</Description>
+      <Description>"                                                              HoloCure For Version 0.6.1692865193                                                                                "</Description>
       <Color>FFFFC8</Color>
       <GroupHeader>1</GroupHeader>
     </CheatEntry>
@@ -35,7 +35,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>FFFF00</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>2A80</Offset>
@@ -51,7 +51,7 @@ luacall(cycleFullCompact(nil,false))
           <Description>"Level"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>C50</Offset>
@@ -68,7 +68,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>BBFFFF</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>F600</Offset>
@@ -85,7 +85,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>000080</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>21C0</Offset>
@@ -101,7 +101,7 @@ luacall(cycleFullCompact(nil,false))
           <Description>"Reroll"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>4830</Offset>
@@ -117,7 +117,7 @@ luacall(cycleFullCompact(nil,false))
           <Description>"Eliminate"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>3D90</Offset>
@@ -143,7 +143,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>22BE01</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+0314BB60</Address>
+          <Address>"HoloCure.exe"+0314BBD0</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>1630</Offset>
@@ -163,7 +163,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>0000FF</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03154570</Address>
+          <Address>"HoloCure.exe"+031545E0</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>70</Offset>
@@ -186,7 +186,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>DCDCDC</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03154570</Address>
+          <Address>"HoloCure.exe"+031545E0</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>C0</Offset>
@@ -209,10 +209,10 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>E17800</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03154570</Address>
+          <Address>"HoloCure.exe"+031545E0</Address>
           <Offsets>
             <Offset>0</Offset>
-            <Offset>90</Offset>
+            <Offset>A0</Offset>
             <Offset>10</Offset>
             <Offset>48</Offset>
             <Offset>0</Offset>
@@ -232,7 +232,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>00FFFF</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03154570</Address>
+          <Address>"HoloCure.exe"+031545E0</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>60</Offset>
@@ -255,7 +255,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>B35900</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03154570</Address>
+          <Address>"HoloCure.exe"+031545E0</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>20</Offset>
@@ -278,7 +278,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>C0C0C0</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03154570</Address>
+          <Address>"HoloCure.exe"+031545E0</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>F0</Offset>
@@ -301,17 +301,17 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>F384FD</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+0314BB60</Address>
+          <Address>"HoloCure.exe"+0314BBD0</Address>
           <Offsets>
             <Offset>0</Offset>
-            <Offset>480</Offset>
+            <Offset>1F90</Offset>
             <Offset>10</Offset>
             <Offset>48</Offset>
-            <Offset>198</Offset>
-            <Offset>1A0</Offset>
             <Offset>98</Offset>
             <Offset>170</Offset>
             <Offset>18</Offset>
+            <Offset>90</Offset>
+            <Offset>28</Offset>
             <Offset>70</Offset>
           </Offsets>
         </CheatEntry>
@@ -321,7 +321,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>6F42C1</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+0314BB60</Address>
+          <Address>"HoloCure.exe"+0314BBD0</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>A0</Offset>
@@ -349,7 +349,7 @@ luacall(cycleFullCompact(nil,false))
           <Description>"Lives [You Need The Chicken Feather Item First To Work]"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>E5B0</Offset>
@@ -366,7 +366,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>757575</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>DA80</Offset>
@@ -383,7 +383,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>00B900</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>9310</Offset>
@@ -400,7 +400,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>96FF96</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03145518</Address>
+          <Address>"HoloCure.exe"+03145588</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>BB30</Offset>
@@ -417,7 +417,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>E6E6E6</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+0314BB60</Address>
+          <Address>"HoloCure.exe"+0314BBD0</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>2A0</Offset>
@@ -436,17 +436,17 @@ luacall(cycleFullCompact(nil,false))
           <Description>"Body Pillow [Warning You Need A Body Pillow First Or You Will Crash The Game]"</Description>
           <ShowAsSigned>0</ShowAsSigned>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+0314BB60</Address>
+          <Address>"HoloCure.exe"+0314BBD0</Address>
           <Offsets>
             <Offset>0</Offset>
-            <Offset>E70</Offset>
+            <Offset>980</Offset>
             <Offset>10</Offset>
             <Offset>48</Offset>
-            <Offset>198</Offset>
-            <Offset>1A0</Offset>
             <Offset>98</Offset>
             <Offset>170</Offset>
             <Offset>18</Offset>
+            <Offset>90</Offset>
+            <Offset>28</Offset>
             <Offset>70</Offset>
           </Offsets>
         </CheatEntry>
@@ -465,7 +465,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>F8F8F8</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03387AB8</Address>
+          <Address>"HoloCure.exe"+03387B28</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>400</Offset>
@@ -487,7 +487,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>FFFF1C</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+03387AB8</Address>
+          <Address>"HoloCure.exe"+03387B28</Address>
           <Offsets>
             <Offset>0</Offset>
             <Offset>6B0</Offset>
@@ -509,11 +509,11 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>C6C600</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+0314BB48</Address>
+          <Address>"HoloCure.exe"+0314BBB8</Address>
           <Offsets>
             <Offset>10</Offset>
             <Offset>58</Offset>
-            <Offset>280</Offset>
+            <Offset>230</Offset>
             <Offset>0</Offset>
             <Offset>0</Offset>
             <Offset>1B0</Offset>
@@ -525,11 +525,11 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>FFFFE6</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+0314BB48</Address>
+          <Address>"HoloCure.exe"+0314BBB8</Address>
           <Offsets>
             <Offset>10</Offset>
-            <Offset>58</Offset>
-            <Offset>438</Offset>
+            <Offset>38</Offset>
+            <Offset>528</Offset>
             <Offset>0</Offset>
             <Offset>0</Offset>
             <Offset>1B0</Offset>
@@ -541,7 +541,7 @@ luacall(cycleFullCompact(nil,false))
           <ShowAsSigned>0</ShowAsSigned>
           <Color>4082B3</Color>
           <VariableType>Double</VariableType>
-          <Address>"HoloCure.exe"+0314BB48</Address>
+          <Address>"HoloCure.exe"+0314BBB8</Address>
           <Offsets>
             <Offset>10</Offset>
             <Offset>18</Offset>
