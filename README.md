@@ -29,6 +29,7 @@ Cheat For HoloCure With Pointer In Cheat Engine, For Those Of You Who First Use 
 + Body Pillow
 #### HoloHouse :
 + Chain
++ Fishing
 + Fishing Bar
 + Manager Bar
 + Manager Level
